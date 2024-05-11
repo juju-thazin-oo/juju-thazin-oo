@@ -19,7 +19,7 @@ const Header = (data) => {
 		height: '150px',
 		width: '150px',
 		borderRadius: '50%',
-		border: '10px solid #b35949',
+		border: '10px solid #8668a4',
 	}, [], { src: data.image })
 
 	const textContainer = create('div', element, [], 'fullname-title-container', {
@@ -33,7 +33,7 @@ const Header = (data) => {
 
 	create('h2', textContainer, [], 'fullname', {
 		fontSize: '1.7rem',
-		color: '#b35949',
+		color: '#8668a4',
 	}, [], {
 		textContent: `${data.firstName} ${data.lastName}`,
 	})
