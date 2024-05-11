@@ -31,7 +31,7 @@ const data = {
 			endYear: 2024,
 			company: "Relais Mini-Schools",
 			jobTitle: "Part-time English Second Language Instructor at Relais Mini-Schools",
-			description: "I am working as a part-time English tutor at Mini-Schools where I get to teach classes of roughly 9 kids per class of ages raging from 6 to 10."
+			description: "I am working as a part-time English tutor at Mini-Schools where I get to teach classes of roughly 10 kids per class of ages raging from 4 to 11."
 		},
 		{
 			id: 2,
@@ -41,6 +41,22 @@ const data = {
 			jobTitle: "Self-employed English Tutor",
 			description: "Elevated student test scores & boosted confidence! I helped students of all ages & backgrounds master English through engaging lessons. Improved their communication & writing skills, leading to success in academics & personal goals."
 		},
+		{
+			id: 3,
+			startYear: 2022,
+			endYear: 2022,
+			company: "Mizzima News Channel",
+			jobTitle: "Reporter Intern",
+			description: "Created contents and did interviews with some pro-democracy activists and supporters regarding to current political situation in Myanmar. I served as a dedicated and supportive Intern in a fast-paced environment. I brought forth the ability to work well independently and also with others."
+		},
+		{
+			id: 4,
+			startYear: 2017,
+			endYear: 2019,
+			company: "Vivo Group Myanmar",
+			jobTitle: "Content Creator",
+			description: "I developed unique content for a variety of clients sites to improve presence and brand awareness. I coordinated mailings, marketing materials, and website content. I collaborated with other departments and teams to identify useful content ideas and map out strategies. I provided support for customers seeking assistance with products, or services. I created detailed reports on customer interactions, including resolutions and follow-up actions taken."
+		}
 	],
 	languages: [
 		{
@@ -60,11 +76,6 @@ const data = {
 		},
 		{
 			id: 4,
-			name: "Korean",
-			level: "Intermediate"
-		},
-		{
-			id: 5,
 			name: "Spanish",
 			level: "Beginner"
 		},
@@ -86,7 +97,7 @@ const data = {
 	skills: [
 		{
 			id: 1,
-			name: "Teaching",
+			name: "Teaching (Certification: TESOL TEFL)",
 			category: "Industry Knowledge",
 			level: "4.5"
 		},
