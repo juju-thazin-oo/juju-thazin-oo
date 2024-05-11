@@ -8,7 +8,7 @@ const SectionTitle = (title, parent = null, target = '') => {
 		width: '100%',
 		marginTop: '20px',
 		fontFamily: 'Century Gothic',
-		color: '#b35949',
+		color: '#8668a4',
 		textAlign: randomPosition < 1 ? 'left' : randomPosition < 2 ? 'center' : 'right',
 		padding: '0px 50px',
 		textDecoration: 'none',
